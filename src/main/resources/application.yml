@@ -1,0 +1,6 @@
+server:
+  port: 2222
+  
+currency-convert:
+  messages:
+    curexchangeurl: https://cexchange.cfapps.io/findCurrencyFromAndTo/from/{from}/to/{to}
